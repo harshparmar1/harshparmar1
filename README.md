@@ -117,7 +117,7 @@ A learning platform that converts long YouTube tutorials into structured, day-wi
 
 ### Mobile & Data Technologies
 
-<img src="https://skillicons.dev/icons?i=react,androidstudio,git,github,docker,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=reactnative,androidstudio,git,github,docker,postman&theme=dark" />
 
 </div>
 
