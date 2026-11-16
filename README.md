@@ -1,71 +1,194 @@
-# 👋 Hey, I'm Harsh Parmar!
+<!-- FUTURISTIC GITHUB PROFILE README -->
 
-\<h3 align="center">Data Science Enthusiast | Full-Stack Developer | Generative AI Explorer\</h3>
+<div align="center">
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A5&center=true&vCenter=true&width=600&lines=Building+Ideas+into+Reality;Exploring+AI+%26+Machine+Learning;Full+Stack+Developer;Hackathon+Enthusiast+%F0%9F%9A%80](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=00F7A5\&center=true\&vCenter=true\&width=600\&lines=Building+Ideas+into+Reality;Exploring+AI+%26+Machine+Learning;Full+Stack+Developer;Hackathon+Enthusiast+%F0%9F%9A%80)" /> \</p>
+# 👋 Hey, I'm Harsh Parmar
 
----
+### `Data Science` × `Full-Stack Development` × `Generative AI`
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7A5&center=true&vCenter=true&width=650&lines=Building+Ideas+into+Reality+%F0%9F%9A%80;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Hackathon+Enthusiast+%F0%9F%8F%86;Turning+Innovation+into+Impact+%E2%9C%A8" alt="Typing SVG" />
 
-🔭 Currently building AI-powered applications and full-stack projects.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7A5,50:2563EB,100:7C3AED&height=3&section=header" width="100%" />
 
-👯 Looking to collaborate on Open Source, AI/ML, and innovative projects.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/harshparmar1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-parmar-7532b3263/)
 
-🏆 Participated in multiple hackathons and won several competitions.
+![Profile Views](https://komarev.com/ghpvc/?username=harshparmar1&style=for-the-badge&color=00F7A5&label=PROFILE+VIEWS)
 
-🥇 Data-Wiz 2025 – 1st Place | Bangalore Challenge – 2nd Place.
-
-🌱 Learning Generative AI, Deep Learning, and Advanced Data Science.
-
-💬 Ask me about Python, React, Next.js, FastAPI, MongoDB, and Machine Learning.
-
-⚡ Turning creative ideas into real-world solutions!
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-\<p align="center">
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi,mongodb,firebase,mysql,html,css,tailwind,git,github,docker&perline=8](https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,fastapi,mongodb,firebase,mysql,html,css,tailwind,git,github,docker\&perline=8)" />
-\</p>
+```yaml
+name: Harsh Parmar
+education: MSc Data Science & Analytics
+role:
+  - Data Science Enthusiast
+  - Full-Stack Developer
+  - Generative AI Explorer
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Web Development
+  - Innovation & Hackathons
+mindset: Build | Learn | Innovate | Repeat
+```
 
----
-
-## 📊 GitHub Statistics
-
-\<p align="center">
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)" />
-&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)" />
-\</p>
-
-\<p align="center">
-&#x20; \<img width="70%" src="[https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true)" />
-\</p>
-
----
-
-## 🏆 Achievements
-
-- 🥇 Data-Wiz 2025 – 1st Place
-- 🥈 Bangalore Challenge – 2nd Place
-- 🚀 NASA Space Apps Challenge Participant
-- 💡 Multiple Hackathon Participant & Winner
-
----
-
-## 🐍 Contribution Graph
-
-\<p align="center">
-&#x20; \<img src="[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)" alt="Contribution Snake Animation" />
-\</p>
+- 🔭 Building AI-powered applications and innovative real-world solutions.
+- 🏆 Active hackathon participant with multiple competition wins.
+- 🥇 Data-Wiz 2025 – 1st Place.
+- 🥈 Bangalore Challenge – 2nd Place.
+- 🚀 NASA Space Apps Challenge participant.
+- 👯 Open to collaborating on AI/ML, Data Science and Open Source projects.
+- 🌱 Exploring Generative AI, Deep Learning and advanced technologies.
+- 💬 Ask me about Python, React, Next.js, FastAPI, MongoDB and Data Analytics.
+- ⚡ I love transforming ambitious ideas into working products.
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Hackathons & Achievements
 
-\<p align="center">   \<a href="[https://github.com/harshparmar1](https://github.com/harshparmar1)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>   \</a>   \<a href="[https://www.linkedin.com/in/harsh-parmar-7532b3263/](https://www.linkedin.com/in/harsh-parmar-7532b3263/)">     \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>   \</a> \</p>
+<div align="center">
 
-\<p align="center">   \<img src="[https://komarev.com/ghpvc/?username=harshparmar1&label=Profile%20Views&color=00F7A5&style=flat](https://komarev.com/ghpvc/?username=harshparmar1\&label=Profile%20Views\&color=00F7A5\&style=flat)" /> \</p>
+| Achievement | Recognition |
+|:---|:---:|
+| 🥇 Data-Wiz 2025 | 1st Place |
+| 🥈 Bangalore Challenge | 2nd Place |
+| 🚀 NASA Space Apps Challenge | Participant |
+| 💡 Other Hackathons | Multiple Participation & Wins |
 
-\<h3 align="center">✨ Code. Create. Innovate. Repeat. ✨\</h3>
+</div>
+
+**My philosophy:** Every hackathon is an opportunity to learn, collaborate, experiment and build something impactful.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 AstroKites — Earth Observation & Climate Intelligence
+
+An integrated platform that transforms satellite and meteorological data into actionable climate intelligence.
+
+**Focus:** Geospatial Intelligence • Weather Alerts • Data Visualization • NASA POWER API
+
+### 🌾 AgriBid — CropGuard AI
+
+An AI-powered agriculture-focused solution designed to support smarter agricultural decisions.
+
+**Focus:** Artificial Intelligence • Agriculture • Data Science
+
+### 👥 Dayflow — HR Management System
+
+A workforce management solution designed to streamline employee operations and HR workflows.
+
+**Focus:** Full-Stack Development • HR Management • Database Systems
+
+### ⚡ Adani Smart Meter Workforce App
+
+A GPS-based workforce management and attendance application with employee tracking, site management and attendance reporting.
+
+**Focus:** React Native • Expo • FastAPI • Firebase • Maps
+
+### 🎓 AI-Powered Video Learning Platform
+
+A learning platform that converts long YouTube tutorials into structured, day-wise and topic-wise learning experiences.
+
+**Focus:** Generative AI • Python • MongoDB • Video Segmentation
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,firebase,mysql" />
+
+### Mobile & Data Technologies
+
+<img src="https://skillicons.dev/icons?i=react,android,git,github,docker,postman" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshparmar1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7A5&icon_color=7C3AED" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshparmar1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7A5" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=harshparmar1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7A5&fire=7C3AED&currStreakLabel=00F7A5" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshparmar1&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshparmar1&bg_color=0D1117&color=00F7A5&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harshparmar1/harshparmar1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+<a href="https://github.com/harshparmar1">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/harsh-parmar-7532b3263/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Dream Big. Build Bold. Innovate Beyond Limits."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7A5,50:2563EB,100:7C3AED&height=120&section=footer" width="100%" />
+
+**Thanks for visiting my profile! Let's build something amazing together. 🚀**
+
+</div>
