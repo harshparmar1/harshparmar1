@@ -17,10 +17,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Create Profile Directory
+        run: mkdir -p profile
+
       - name: Generate Trophy SVG
         uses: soulteary/github-profile-trophy-action@v1
         with:
-          options: 'username=harshparmar1&theme=onestar&no-frame=true&no-bg=true&column=6'
+          options: 'username=harshparmar1&theme=onestar&column=6&no-frame=true&no-bg=true'
           path: profile/trophy.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
