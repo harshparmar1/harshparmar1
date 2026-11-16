@@ -117,7 +117,12 @@ A learning platform that converts long YouTube tutorials into structured, day-wi
 
 ### Mobile & Data Technologies
 
-<img src="https://cdn.simpleicons.org/reactnative/61DAFB" height="60" alt="React Native" />
+<p align="center">
+  <img src="https://cdn.simpleicons.org/react/61DAFB"
+       height="45" alt="React Native" />
+  <br/>
+  <b>React Native 📱</b>
+</p>
 <img src="https://skillicons.dev/icons?i=androidstudio,git,github,docker,postman&theme=dark" />
 
 </div>
