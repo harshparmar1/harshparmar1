@@ -128,9 +128,8 @@ A learning platform that converts long YouTube tutorials into structured, day-wi
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshparmar1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7A5&icon_color=7C3AED" alt="GitHub Stats" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshparmar1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7A5" alt="Top Languages" />
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages" />
 
 <br/>
 
