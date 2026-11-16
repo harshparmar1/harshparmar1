@@ -123,27 +123,31 @@ A learning platform that converts long YouTube tutorials into structured, day-wi
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshparmar1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7A5&icon_color=7C3AED" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshparmar1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7A5&icon_color=7C3AED" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshparmar1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7A5" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshparmar1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7A5" alt="Top Languages" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=harshparmar1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7A5&fire=7C3AED&currStreakLabel=00F7A5" />
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com/?user=harshparmar1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7A5&fire=7C3AED&currStreakLabel=00F7A5" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshparmar1&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=harshparmar1&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
 
 </div>
+
 
 ---
 
@@ -157,11 +161,12 @@ A learning platform that converts long YouTube tutorials into structured, day-wi
 
 ---
 
-## 🐍 Contribution Snake Animation
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/harshparmar1/harshparmar1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/harshparmar1/harshparmar1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
