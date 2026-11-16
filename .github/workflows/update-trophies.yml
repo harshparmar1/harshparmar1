@@ -21,7 +21,7 @@ jobs:
       - name: Generate Trophies
         uses: soulteary/github-profile-trophy-action@v1
         with:
-          options: 'username=harshparmar1&theme=tokyonight&column=6'
+          options: 'username=harshparmar1&theme=aura&column=4&title=Commits,Repositories,Experience,Followers'
           path: profile/trophy.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
